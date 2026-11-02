@@ -1,0 +1,8 @@
+# SentinelXT Legacy dependencies for Windows 7 SP1 x64 + Python 3.8.10
+# Install inside the project virtual environment with: python -m pip install -r requirements-win7.txt
+PySide2==5.15.2.1
+PyInstaller==5.13.2
+psutil==7.2.2
+Pillow==10.4.0
+pefile==2024.8.26
+yara-python==4.3.1

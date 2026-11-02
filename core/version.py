@@ -1,0 +1,10 @@
+
+"""SentinelXT product versioning."""
+PRODUCT_VERSION = "0.1.4"
+BUILD_NUMBER = 6
+BUILD_LABEL = "Build #{}".format(BUILD_NUMBER)
+VERSION_LABEL = "{} · {}".format(PRODUCT_VERSION, BUILD_LABEL)
+AUTHOR = "SynXT"
+DISCORD_SERVER_NAME = "RUStrengthSMP"
+DISCORD_INVITE_CODE = "Ws6MbCA48g"
+DISCORD_INVITE_URL = "https://discord.gg/{}".format(DISCORD_INVITE_CODE)
