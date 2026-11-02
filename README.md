@@ -3,7 +3,7 @@
   <h1>SentinelXT</h1>
   <p><strong>Minecraft Client Forensic System · SynXT</strong></p>
   <p>Локальная инвентаризация Minecraft-файлов и статический анализ подозрительных артефактов.</p>
-  <p><strong>Версия:</strong> 0.1.4 · <strong>Сборка:</strong> #6 · <strong>Платформа:</strong> Windows 7 SP1 x64</p>
+  <p><strong>Версия:</strong> 0.1.4 · <strong>Сборка:</strong> #6 · <strong>Платформа:</strong> Windows 7/10/11</p>
 </div>
 
 ---
