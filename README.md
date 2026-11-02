@@ -38,7 +38,7 @@
 
 | Компонент | Версия |
 |---|---|
-| ОС | Windows 7 SP1 x64 |
+| ОС | Windows 7/10/11 |
 | Python | 3.8.10, 64-bit |
 | GUI | PySide2 5.15.2.1 |
 | Сборка EXE | PyInstaller 5.13.2 |
